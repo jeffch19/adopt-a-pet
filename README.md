@@ -2,6 +2,8 @@
 
 **Project Description**
 
+Deployed Link: https://main--adopt-a-furryfriend.netlify.app/
+
 Adopt a Pet is a comprehensive online platform designed to connect potential pet owners with adorable furry friends looking for forever homes. Built with React, this user-friendly interface allows users to explore various pets, learn about their characteristics, and initiate the adoption process directly from the comfort of their homes.
 
 ## Technologies Used
