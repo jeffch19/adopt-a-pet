@@ -3,12 +3,12 @@ import Hero from '../../components/hero';
 import { getPets } from '../../api/petfinder';
 import Pet from '../../components/pet';
 
-// import useLocation here
+
 import { useLocation } from 'react-router-dom';
 
 const SearchPage = () => {
 
-  // Get the search value from useLocation() here
+
   const { search } = useLocation();
 
   const queryParams = useMemo(() => { 
